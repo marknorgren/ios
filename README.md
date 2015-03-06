@@ -24,5 +24,6 @@
 
 # Newsletters
 
+* http://www.objc.io/
 * https://iosdevweekly.com/
 * http://ios.devtools.me/
