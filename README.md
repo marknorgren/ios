@@ -1,4 +1,10 @@
 
+# Graphics and Icons
+
+* http://www.apptorium.com/products/sizes
+* http://www.iosicontemplate.com
+* 
+
 # Debugging
 
 * https://github.com/Flipboard/FLEX
@@ -15,3 +21,8 @@
 
 * http://iossupportmatrix.com/
 * 
+
+# Newsletters
+
+* https://iosdevweekly.com/
+* http://ios.devtools.me/
