@@ -1,5 +1,14 @@
 
+# Autolayout
 
+## Libraries
+
+* Masonry - https://github.com/Masonry/Masonry
+* PureLayout - https://github.com/smileyborg/PureLayout
+
+## Documentation
+
+* [Apple's Autolayout Guide](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html)
 
 # Graphics and Icons
 
