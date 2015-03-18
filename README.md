@@ -35,6 +35,10 @@
 * [Slender - Mac App](http://martiancraft.com/products/slender.html)
 * [Deploymate](http://www.deploymateapp.com/)
 
+## Enterprise Builds
+
+* https://github.com/RichardBronosky/ota-tools
+
 # iOS Version Support
 
 * http://iossupportmatrix.com/
