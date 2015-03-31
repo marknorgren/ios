@@ -18,6 +18,7 @@
 # Marketing
 
 * [Apple Marketing Resources](https://developer.apple.com/app-store/marketing/guidelines/#images)
+* [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
 
 # Debugging
 
