@@ -14,7 +14,10 @@
 
 * http://www.apptorium.com/products/sizes
 * http://www.iosicontemplate.com
-* 
+
+# Marketing
+
+* [Apple Marketing Resources](https://developer.apple.com/app-store/marketing/guidelines/#images)
 
 # Debugging
 
