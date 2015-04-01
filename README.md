@@ -23,7 +23,12 @@
 # Debugging
 
 * https://github.com/Flipboard/FLEX
-* 
+
+## View Debugging
+
+* [Reveal App](http://revealapp.com/)
+* [Spark Inspector](http://sparkinspector.com/)
+
 
 # Push Notifications
 
