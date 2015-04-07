@@ -10,6 +10,11 @@
 
 * [Apple's Autolayout Guide](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html)
 
+
+# Open Source Apps / Examples
+
+* [Repo with list of Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+
 # Graphics and Icons
 
 * http://www.apptorium.com/products/sizes
@@ -51,7 +56,8 @@
 # iOS Version Support
 
 * http://iossupportmatrix.com/
-* 
+
+
 
 # Newsletters
 
