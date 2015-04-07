@@ -64,3 +64,8 @@
 * http://www.objc.io/
 * https://iosdevweekly.com/
 * http://ios.devtools.me/
+* 
+
+# Resources
+
+* [awesome list](https://github.com/vsouza/awesome-ios)
