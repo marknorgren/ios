@@ -3,8 +3,17 @@
 
 ## Libraries
 
+### Autolayout
 * Masonry - https://github.com/Masonry/Masonry
 * PureLayout - https://github.com/smileyborg/PureLayout
+
+### Dates
+* https://github.com/MatthewYork/DateTools
+
+
+### Logging
+
+* [Cocoa Lumberjack](https://github.com/MatthewYork/DateTools)
 
 ## Documentation
 
