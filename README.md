@@ -58,6 +58,11 @@
 * [Slender - Mac App](http://martiancraft.com/products/slender.html)
 * [Deploymate](http://www.deploymateapp.com/)
 
+## iTunes Connect
+
+* Prerelease builds stuck in 'processing' state workaround
+  * https://stackoverflow.com/questions/27928471/my-prerelease-app-has-been-processing-for-over-a-week-in-itunes-connect-what#
+
 ## Enterprise Builds
 
 * https://github.com/RichardBronosky/ota-tools
