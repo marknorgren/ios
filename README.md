@@ -67,8 +67,11 @@
 
 * https://github.com/RichardBronosky/ota-tools
 
-# iOS Version Support
+# iOS Version / Device Support
 
+* [Identify iPhone](https://support.apple.com/en-us/HT201296)
+* [Identify iPad](https://support.apple.com/en-us/HT201471)
+* [Identify iPod](https://support.apple.com/en-us/HT204217)
 * http://iossupportmatrix.com/
 
 
