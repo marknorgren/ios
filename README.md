@@ -70,6 +70,7 @@
 # iOS Version / Device Support
 
 * [Identify iPhone](https://support.apple.com/en-us/HT201296)
+* [Identify Apple Watch](https://support.apple.com/en-us/HT204507)
 * [Identify iPad](https://support.apple.com/en-us/HT201471)
 * [Identify iPod](https://support.apple.com/en-us/HT204217)
 * http://iossupportmatrix.com/
