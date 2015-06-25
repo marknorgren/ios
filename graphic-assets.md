@@ -2,6 +2,7 @@
 # iPhone 6 / 6 + Screens
 
 * [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+* [iPhone 6 Screen Size and Web Design Tips](http://www.kylejlarson.com/blog/2015/iphone-6-screen-size-web-design-tips/)
 
 # Launch Image Sizes
 
