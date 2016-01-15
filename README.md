@@ -75,6 +75,7 @@
 * [Identify iPad](https://support.apple.com/en-us/HT201471)
 * [Identify iPod](https://support.apple.com/en-us/HT204217)
 * http://iossupportmatrix.com/
+* [Apple's DeviceCompatibilityMatrix](https://developer.apple.com/library/ios/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/DeviceCompatibilityMatrix/DeviceCompatibilityMatrix.html)
 * [iOS Device Summary](http://jamesdempsey.net/2015/11/13/ios-device-summary-fall-2015-updates/)
 
 # Newsletters
