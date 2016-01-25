@@ -77,6 +77,9 @@
 * http://iossupportmatrix.com/
 * [Apple's Device Compatibility Matrix](https://developer.apple.com/library/ios/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/DeviceCompatibilityMatrix/DeviceCompatibilityMatrix.html)
 * [iOS Device Summary](http://jamesdempsey.net/2015/11/13/ios-device-summary-fall-2015-updates/)
+* [iOS version release date history](http://www.thinkybits.com/blog/iOS-versions/)
+* [iOS SDK Release History (Wikipedia)](https://en.wikipedia.org/wiki/IOS_SDK#SDK_release_history)
+* 
 
 # Newsletters
 
