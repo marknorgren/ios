@@ -5,21 +5,21 @@
 
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Plugin to use Quick Look to view provisioning profiles and IPAs
 
-# Autolayout
 
-## Libraries
+# Libraries
 
-### Autolayout
+## Autolayout
 * Masonry - https://github.com/Masonry/Masonry
 * PureLayout - https://github.com/smileyborg/PureLayout
 
-### Dates
+## Dates
 * https://github.com/MatthewYork/DateTools
 
-
-### Logging
+## Logging
 
 * [Cocoa Lumberjack](https://github.com/MatthewYork/DateTools)
+
+# AutoLayout
 
 ## Documentation
 
