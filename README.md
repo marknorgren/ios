@@ -91,7 +91,16 @@
 * http://www.objc.io/
 * https://iosdevweekly.com/
 * http://ios.devtools.me/
-* 
+
+# Education
+
+[CS193p](https://web.stanford.edu/class/cs193p/cgi-bin/drupal/) - Standford's iOS Course
+
+[Udacity - ](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+  * [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+  * [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
+  * [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
+  * [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
 
 # Resources
 
