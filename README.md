@@ -79,7 +79,11 @@
 * [Identify Apple Watch](https://support.apple.com/en-us/HT204507)
 * [Identify iPad](https://support.apple.com/en-us/HT201471)
 * [Identify iPod](https://support.apple.com/en-us/HT204217)
-* http://iossupportmatrix.com/
+
+## Device Summaries / Matrix
+
+* http://iossupportmatrix.com/ - it appears this link isn't updated as much as it once was
+* http://dorianroy.com/blog/wp-content/uploads/2016/09/iOS_Support_Matrix_v4.2.pdf - iossupportmatrix updated more frequently.
 * [Apple's Device Compatibility Matrix](https://developer.apple.com/library/ios/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/DeviceCompatibilityMatrix/DeviceCompatibilityMatrix.html)
 * [iOS Device Summary](http://jamesdempsey.net/2015/11/13/ios-device-summary-fall-2015-updates/)
 * [iOS version release date history](http://www.thinkybits.com/blog/iOS-versions/)
