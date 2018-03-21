@@ -40,6 +40,10 @@
 * [Apple Marketing Resources](https://developer.apple.com/app-store/marketing/guidelines/#images)
 * [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
 
+# App Store - Screenshots
+
+* [Simulator Status Magic](https://github.com/shinydevelopment/SimulatorStatusMagic)
+
 # Debugging
 
 * https://github.com/Flipboard/FLEX
