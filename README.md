@@ -42,6 +42,7 @@
 
 # App Store - Screenshots
 
+* [Status Barred](https://geo.itunes.apple.com/us/app/status-barred/id413853485?mt=12&app=apps&at=10lqb3)
 * [Simulator Status Magic](https://github.com/shinydevelopment/SimulatorStatusMagic)
 
 # Debugging
